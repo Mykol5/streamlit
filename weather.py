@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-# OpenWeatherMap API key (replace with your own key)
+# OpenWeatherMap API key
 api_key = "f68cd9c5b8108939e167bab9fba5d8c1"
 
 # Create a Streamlit web app
